@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=fahr
+comment0.target=double\ fToC(double)
+comment1.params=cel
+comment1.target=double\ Ctof(double)
+comment2.params=radius
+comment2.target=double\ volumeSphere(double)
+comment3.params=a\ b
+comment3.target=double\ hypotenuse(double,\ double)
+comment4.params=a\ b\ c
+comment4.target=void\ roots(double,\ double,\ double)
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ makeH()
+comment1.params=
+comment1.target=void\ makeLine()
+comment2.params=
+comment2.target=void\ moveTwice()
+comment3.params=
+comment3.target=void\ setPosition()
+comment4.params=
+comment4.target=void\ setMiddle()
+comment5.params=
+comment5.target=void\ goHome()
+numComments=6

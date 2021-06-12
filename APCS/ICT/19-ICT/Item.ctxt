@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=id\ inv
+comment0.target=Item(int,\ int)
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=
+comment2.target=int\ getInv()
+comment3.params=other
+comment3.target=int\ compareTo(java.lang.Object)
+comment4.params=other
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

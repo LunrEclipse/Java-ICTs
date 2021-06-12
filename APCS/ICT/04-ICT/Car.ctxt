@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=odometerReading
+comment0.target=Car(int)
+comment1.params=odometerReading\ gallons
+comment1.target=void\ fillUp(int,\ double)
+comment2.params=
+comment2.target=double\ calculateMPG()
+comment3.params=
+comment3.target=void\ resetMPG()
+comment4.params=
+comment4.target=int\ getCurrentMileage()
+numComments=5

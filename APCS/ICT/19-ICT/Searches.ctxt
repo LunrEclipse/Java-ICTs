@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=list
+comment0.target=Searches(java.util.List)
+comment1.params=toFind\ first\ last
+comment1.target=int\ bsearch(java.lang.Comparable,\ int,\ int)
+comment2.params=toFind
+comment2.target=int\ bsearchLoop(java.lang.Comparable)
+numComments=3
